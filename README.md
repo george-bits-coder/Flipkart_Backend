@@ -63,4 +63,4 @@ This is common for Home page, Search Results page, Product page, Wishlist page. 
 ![image](https://user-images.githubusercontent.com/91777048/148635104-bd60c53b-d0dc-4bf8-a765-e977864a4f23.png)
 
 Realtime deployment
-https://vasukomuravelli.github.io/flipkart-clone/
+https://vasukomuravelli.github.io/Flipkart_Backend/

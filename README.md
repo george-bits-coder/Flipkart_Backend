@@ -36,7 +36,6 @@ This page includes the search results of user showcasing the details like title,
 
 This page contains 2 halves. The first half focuses on the image, and buttons like add to cart, buy now, wishlist & the second half focuses on the details, description & key features of the product. By making decision on purchasing a product this website allows user to use two options buynow(Add product to cart & redirecting to cart page), add to cart(if user wants to checkout with more than one product). Here we are checking the validation of user to add product to cart.
 
-![image](https://user-images.githubusercontent.com/91777048/148634827-77e72584-f8aa-4647-a99e-b76bd8044105.png)
 ![image](https://user-images.githubusercontent.com/91777048/148636444-97639cac-f9c5-4bd8-8104-42d00d287beb.png)
 
 ## Wishlist page:
@@ -44,7 +43,6 @@ This page contains 2 halves. The first half focuses on the image, and buttons li
 This page is accessible only for the authenticated users features all the products user added to his/her wishlist products to buy later. Here they can delete the product from wishlist also.
 
 ![image](https://user-images.githubusercontent.com/91777048/148636502-e2ab90c6-3771-4fb1-8b39-ed301a1edeac.png)
-![image](https://user-images.githubusercontent.com/91777048/148635243-e2fca564-0fe7-4cc7-9d10-6b95ac7aec44.png)
 
 ## Cart Page:
 

@@ -64,3 +64,5 @@ This is common for Home page, Search Results page, Product page, Wishlist page. 
 
 Realtime deployment
 https://vasukomuravelli.github.io/Flipkart_Backend/
+
+Personal contribution : backend, homepage, and fixing errors
